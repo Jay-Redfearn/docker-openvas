@@ -41,5 +41,5 @@ Screenshots of OpenVAS are provided on the main branch.
 https://utulsa.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=75912983-0806-47a5-a3ad-acc9018aaec3 
 
 https://github.com/mikesplain/openvas-docker
-<img width="955" alt="image" src="https://user-images.githubusercontent.com/41350159/141839924-5027fd75-b3d9-41da-9b8a-0535c6fd0363.png">
+
 
