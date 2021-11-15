@@ -31,3 +31,7 @@ Click on the “Scans” tab and click on “Tasks”. Create a new task by clic
 Click the green play button (start button) next to the task that you just created under the “Actions” column. Refresh the page to make sure OpenVAS is scanning properly.
 
 Once the scan is complete, click the status bar under the “Status” column. The page will give you a list of vulnerabilities you have on your system.
+
+# Screenshots
+
+Screenshots of OpenVAS are provided on the main branch.
